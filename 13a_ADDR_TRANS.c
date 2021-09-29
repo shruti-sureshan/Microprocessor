@@ -1,15 +1,5 @@
 //address translation from logical to physical in 80386
 
-/*
-my comments are for your understanding, not for printing
-you may use file size as 1024
-page size will be your class no. followed by 2 digit roll no. 
-for example 
-roll no 2 from TE CMPN A, then your page size will be 102
-roll no 65 from TE CMPN B, then your page size will be 265
-everyone need to show output with your numbers only
-*/
-
 #include<stdio.h>
 #include<conio.h>
 
