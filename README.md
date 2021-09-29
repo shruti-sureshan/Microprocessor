@@ -20,9 +20,19 @@ In this Repository, I have implemented the basis of Assembly Language Programmin
 8b. Write an ALP to copy a string to another using MOVSB instruction. <br/>
 9a. Write an ALP to print Fibonacci series upto given N. <br/>
 9b. Write an MLP to swap two numbers given in memory locations.<br/>
-10a. Write an ALP to take two 8-bit BCD numbers as input and display the quotient and remainder as BCDs on screen. <br/>
-10b. Write a MLP to compute the surface area of a given sphere.<br/>
-11a. Write a C/Java/Python program to translate a given logical address to physical address using 80386DX address translation mechanism.<br/>
-11b. Write an ALP to compare two strings given in program and print “same” or “different” on screen using CMPSB instruction. <br/>
-12a. Write an ALP to display the maximum and minimum elements of an user given array of 10 numbers. <br/>
-12b. Write a MLP to convert given temperature from Centigrate to Fahrenheit.<br/>
+10a. Write an ALP to concatenate two strings using string instructions of 8086.<br/>
+10b. Write a MLP to calculate the area of a circle<br/>
+11a. Write an ALP to take two 8-bit BCD numbers as input and display the quotient and remainder as BCDs on screen. <br/>
+11b. Write a MLP to compute the surface area of a given sphere.<br/>
+12a. Write an ALP to take a two digit BCD input from user and save it as its hexadecimal equivalent in a memory location<br/>
+12b. Write a MLP to find the LCM of two numbers. <br/>
+13a. Write a C/Java/Python program to translate a given logical address to physical address using 80386DX address translation mechanism.<br/>
+13b. Write an ALP to compare two strings given in program and print “same” or “different” on screen using CMPSB instruction. <br/>
+14a. Write an ALP to display the count of even and odd parity elements in an user given array of 10 numbers.<br/>
+14b. Write a MLP to compute roots of a quadratic equation with given a, b, c by user<br/>
+15a. Write an ALP to display the maximum and minimum elements of an user given array of 10 numbers. <br/>
+15b. Write a MLP to convert given temperature from Centigrate to Fahrenheit.<br/>
+16a. Write an ALP to display the factorial of a given number [0-8] using recursive procedures.
+16b. Write a MLP to find the greatest of three numbers
+17a. Write an ALP to convert a 8-bit hexadecimal number given in a memory location to its equivalent BCD, and display it. [AAM]
+17b. Write a MLP to find the GCD of two numbers. 
