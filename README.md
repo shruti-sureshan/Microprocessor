@@ -32,7 +32,21 @@ In this Repository, I have implemented the basis of Assembly Language Programmin
 14b. Write a MLP to compute roots of a quadratic equation with given a, b, c by user<br/>
 15a. Write an ALP to display the maximum and minimum elements of an user given array of 10 numbers. <br/>
 15b. Write a MLP to convert given temperature from Centigrate to Fahrenheit.<br/>
-16a. Write an ALP to display the factorial of a given number [0-8] using recursive procedures.
-16b. Write a MLP to find the greatest of three numbers
-17a. Write an ALP to convert a 8-bit hexadecimal number given in a memory location to its equivalent BCD, and display it. [AAM]
-17b. Write a MLP to find the GCD of two numbers. 
+16a. Write an ALP to display the factorial of a given number [0-8] using recursive procedures.<br/>
+16b. Write a MLP to find the greatest of three numbers<br/>
+17a. Write an ALP to convert a 8-bit hexadecimal number given in a memory location to its equivalent BCD, and display it. [AAM]<br/>
+17b. Write a MLP to find the GCD of two numbers. <br/>
+18a. Write an ALP to display the sum of digits of a user entered 4-digit BCD.<br/>
+18b. Write a MLP to display the grade of a student, given the marks. (A: >80, 79>B>60, 59>C>40,F>39) <br/>
+19a. Write an ALP to store the full name of a person in one string, given the first name and last name as separate inputs. <br/>
+19b. Write a MLP to evaluate A-B*C+D<br/>
+20a. Write an ALP to display the count of even and odd elements in an user given array of 10 numbers. <br/>
+20b. Write a MLP to display the smallest of two numbers<br/>
+21a. Write an ALP to display if a given string is a palindrome or not. <br/>
+21b. Write a MLP to swap two given numbers.<br/>
+22a. Write an ALP to display the sum of 10 user given array elements.<br/>
+22b. Write MLP to find the average of three numbers. <br/>
+23a. Write an ALP to swap two numbers using near procedures. <br/>
+23b. Write a MLP to calculate the total salary of a person, given basic pay. Total salary = basic + DA + HRATax. Assume: DA = 50% of basic pay, HRA = 5 % of basic pay, Tax = 10% of basic pay <br/>
+24a. Write an ALP to display N numbers in ascending order. <br/>
+24b. Write a MLP to check if a given number is prime or not. <br/>
